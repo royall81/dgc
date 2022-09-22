@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <meta name="description" content="">
+     <meta name="author" content="">
+
+     <title>Dutch Ground Control - Mycorrhiza mix</title>
+
+     <!-- Bootstrap core CSS -->
+     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+     <!-- Custom styles for this template -->
+     <link href="css/heroic-features.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+     <!-- Navigation -->
+     <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+          <div class="container">
+               <a class="navbar-brand" href="#">Dutch Ground Control</a>
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+               </button>
+               <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                         <li class="nav-item active">
+                              <a class="nav-link" href="#">Home
+                                   <span class="sr-only">(current)</span>
+                              </a>
+                         </li>
+                         <li class="nav-item">
+                              <a class="nav-link" href="#">About</a>
+                         </li>
+                         <li class="nav-item">
+                              <a class="nav-link" href="#">Services</a>
+                         </li>
+                         <li class="nav-item">
+                              <a class="nav-link" href="#">Contact</a>
+                         </li>
+                    </ul>
+               </div>
+          </div>
+     </nav> -->
+
+     <!-- Page Content -->
+     <div class="container">
+
+          <!-- Jumbotron Header -->
+          <header class="jumbotron mb-5">
+               <img src="/img/Mycorrhiza-bannerv2.jpg" width="100%">
+          </header>
+
+          <!-- Page Features -->
+          <div class="row text-center m-0">
+               <div class="col-md-12 color-green-background my-5 pb-3">
+                    <img width="60%" class="mycor-banner" src="/img/banner-mycorrhiza.png">
+                    <div class="row pt-4">
+                         <hr class="dotted">
+                    </div>
+                    <div class="row pt-2 pl-5 pr-5 pb-4 ">
+                         <strong>By adding Mycorrhiza Mix to your soil, your plants grow healthier, which in turn will result in higher yield and better quality, all in a 100% organic way! What are mycorrhizas</strong>
+                    </div>
+                    <div class="row">
+                         <div class="col-md-6 pl-4 pr-4 pb-4 text-justify">
+                              Mycorrhiza fungi are microbial engines which improve plant health and soil quality. They have played a very important role in the nutrient supply of trees and plants for over 400 million years. ­­­
+
+                              The threads of the mycorrhiza fungi penetrate into the bark cells of the roots and grow into the soil from there. As a result, they form a natural root extension.
+                         </div>
+                         <div class="col-md-6 pr-4 pl-4 pb-4 text-justify">
+
+                              Because the fungal threads are extremely thin, they can reach the smallest bottom pores. There they release minerals bound by acids and enzymes and transport them via the "network" to the roots of the plant.
+
+                              The fungus does this for a very specific reason. In exchange for the nutrients supplied, the mycorrhizal fungi absorb excess glucose from the plant. This creates a perfect form of society called symbiosis.
+                         </div>
+                    </div>
+               </div>
+
+               <div class="col-md-12 color-white-background my-3">
+                    <div class="row">
+                         <div class="col-md-6 pl-5 pr-4 py-5 text-left">
+                              <h2>Why add Mycorrhiza Mix?</h2>
+                              <p>
+                                   Through years of experience we have developed a unique composition from the more than 200 different species of Glomeromycotan fungus responsible for the creation of mycorrhiza. By adding the correct fungal spores, the fungal threads (mycelium) generated will increase the absorption capacity through the roots of your plants up to 700%.
+                              </p>
+                         </div>
+                         <div class="col-md-6 pr-5 pl-4 py-5 text-left">
+                              <h2 class="pl-4">Benefits</h2>
+                              <ul>
+                                   <li>Produce more vigorous and healthy plants</li>
+                                   <li>Increase yields and bud quality</li>
+                                   <li>Optimized absorption of nutrients</li>
+                                   <li>Decreases susceptibility to deceases and stress</li>
+                                   <li>Contribute to maintain soil quality and nutrient cycling</li>
+                                   <li>Greater water infiltration and water holding capacity</li>
+                                   <li>More permeability to air</li>
+                                   <li>Better root development</li>
+                              </ul>
+                         </div>
+                    </div>
+               </div>
+
+               <div class="col-md-12 color-white-background my-5">
+                    <div class="row">
+                         <div class="col-md-7 p-2 text-center">
+                              <img div class="pt-2" src="/img/rocking-rootsv2.png" width="80%">
+                         </div>
+                         <div class="col-md-4 p-4 text-left">
+                              <div class="col-md-12 pt-2">
+                                   <img div class="" src="/img/suitable.png" width="100%">
+                              </div>
+                              <div class="col-md-12 p-4 color-green-background">
+                                   <h2>Use of the fungi</h2>
+                                   <p>
+                                        Mycorrhiza Mix should be mixed through the soil. As soon as the growing roots come into contact with our spores, the fungi will start to grow, and the foundation is laid for a beautiful symbiosis. When using our Mycorrhiza Mix, with its specially selected fast-acting spores, this process should start in less than a week!
+                                   </p>
+                              </div>
+                         </div>
+                         <div class="col-md-1  text-center">
+
+                         </div>
+                    </div>
+               </div>
+
+
+
+          </div>
+          <!-- /.row -->
+
+     </div>
+     <!-- /.container -->
+
+     <!-- Footer -->
+     <footer class="pt-5 footer">
+          <div class="container text-center">
+               <img class="footer-image" src="/img/footer.png"><br>
+               Dutch Ground Control - Cruquiuszoom 576 - 2142EW  CRUQUIUS - +31 (0)23 23 40 855 - Email: <a href="mailto:Info@DutchGroundControl.com?Subject=Contact%20DGC" target="_top">Info@DutchGroundControl.com</a>
+          </div>
+          <!-- /.container -->
+     </footer>
+
+     <!-- Bootstrap core JavaScript -->
+     <script src="vendor/jquery/jquery.min.js"></script>
+     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
