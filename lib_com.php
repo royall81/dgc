@@ -18,7 +18,8 @@ $aExistingUrls[] = 'about-us';
 $aExistingUrls[] = 'usage';
 $aExistingUrls[] = 'user-guide-mycorrhiza-mix';
 $aExistingUrls[] = 'user-guide-rhizobac-mix';
-
+$aExistingUrls[] = 'user-guide-rhizobac-caps';
+$aExistingUrls[] = 'user-guide-rhizobac-sachets';
 
 
 if (!empty($uriVars[1]) && !in_array($uriVars[1], $aExistingUrls))   {
