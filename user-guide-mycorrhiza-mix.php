@@ -1,6 +1,115 @@
 <div class="container container-md mt-5 mb-5">
-    <h1 class=" mb-5">Under construction</h1>
-    <p>
-        User Guide mycorrhiza Mix
-    </p>
+    <div class="col-12 text-center pb-5" style="font-size:27px;">
+        User guide <b style="font-weight:800;">Mycorrhiza Mix</b>
+    </div>
+</div>
+<div class="container textblock basic-header-width  mt-1    py-3 mb-0"  id="_step_1">
+    <div class="row p-0 m-0 px-sm-3 mx-sm-3">
+        <div class="col-md-11 text-left p-0 py-sm-3  m-2  text-dark font-weight-normal fontsize1125 mb-0">
+            <div class="d-flex bd-highlight">
+                <div class="row">
+                    <div class="col-md-6 first-column p-1 pl-md-3">
+                        <img class="img-fluid basic-header-thumbnail lazyloaded" src="/img/mycorrhiza_large.jpg">
+                    </div>
+                    <div class="col-md-6 p-0 p-md-3 second-column" style="font-size:1.2rem;font-weight:200;">
+                        <p>Mycorrhiza is not only highly beneficial for your roots but also very easy to apply.</p>
+                        <p>To obtain the best possible results with mycorrhiza, please follow the simple steps below.</p>
+                        <p>For more <strong>product information</strong> see our <a href="/mycorrhiza-mix">Mycorrhiza Mix</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<
+<div class="container textblock basic-header-width  mt-1    py-3 mb-0"  id="_step_1">
+    <div class="row p-0 m-0 px-sm-3 mx-sm-3">
+        <div class="col-md-11 text-left p-0 py-sm-3  m-2  text-dark font-weight-normal fontsize1125 mb-0">
+            <div class="d-flex bd-highlight">
+                <div class="p-2 bd-highlight text-left text-sm-left h-100 align-top p-1  text-dark font-weight-normal fontsize1125">
+                    <img class="img-step " src="/img/usage/mycorrhiza/user-guide-mycorrhiza-step-1.jpg" style="max-width: 400px;" alt="Spongepot user guide - Step 1">
+                </div>
+                <div class="p-2 flex-grow-1 bd-highlight text-left  align-items-center p-1  pt-sm-0 pl-sm-3  text-dark fontsize1125 open-sans-light-font" style="font-size: 1.2rem;font-weight:200;line-height: 1.5;">
+                    <h2 style="font-size:1.75rem;">Step 1</h2>
+                    <p>Dissolve the supplied bacto in 1 liter / 0.26 gal of water.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container textblock basic-header-width  mt-1    py-3 mb-0"  id="_step_1">
+    <div class="row p-0 m-0 px-sm-3 mx-sm-3">
+        <div class="col-md-11 text-left p-0 py-sm-3  m-2  text-dark font-weight-normal fontsize1125 mb-0">
+            <div class="d-flex bd-highlight">
+                <div class="p-2 bd-highlight text-left text-sm-left h-100 align-top p-1  text-dark font-weight-normal fontsize1125">
+                    <img class="img-step " src="/img/usage/mycorrhiza/user-guide-mycorrhiza-step-2.jpg" style="max-width: 400px;" alt="Spongepot user guide - Step 1">
+                </div>
+                <div class="p-2 flex-grow-1 bd-highlight text-left  align-items-center p-1  pt-sm-0 pl-sm-3  text-dark fontsize1125 open-sans-light-font" style="font-size: 1.2rem;font-weight:200;line-height: 1.5;">
+                    <h2 style="font-size:1.75rem;">Step 2</h2>
+                    <p>Mix 4 grams / 0.14 ounce through the soil.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container textblock basic-header-width  mt-1    py-3 mb-0"  id="_step_1">
+    <div class="row p-0 m-0 px-sm-3 mx-sm-3">
+        <div class="col-md-11 text-left p-0 py-sm-3  m-2  text-dark font-weight-normal fontsize1125 mb-0">
+            <div class="d-flex bd-highlight">
+                <div class="p-2 bd-highlight text-left text-sm-left h-100 align-top p-1  text-dark font-weight-normal fontsize1125">
+                    <img class="img-step " src="/img/usage/mycorrhiza/user-guide-mycorrhiza-step-3.jpg" style="max-width: 400px;" alt="Spongepot user guide - Step 1">
+                </div>
+                <div class="p-2 flex-grow-1 bd-highlight text-left  align-items-center p-1  pt-sm-0 pl-sm-3  text-dark fontsize1125 open-sans-light-font" style="font-size: 1.2rem;font-weight:200;line-height: 1.5;">
+                    <h2 style="font-size:1.75rem;">Step 3</h2>
+                    <p>Create a small hole for the seedling/cutting.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container textblock basic-header-width  mt-1    py-3 mb-0"  id="_step_1">
+    <div class="row p-0 m-0 px-sm-3 mx-sm-3">
+        <div class="col-md-11 text-left p-0 py-sm-3  m-2  text-dark font-weight-normal fontsize1125 mb-0">
+            <div class="d-flex bd-highlight">
+                <div class="p-2 bd-highlight text-left text-sm-left h-100 align-top p-1  text-dark font-weight-normal fontsize1125">
+                    <img class="img-step " src="/img/usage/mycorrhiza/user-guide-mycorrhiza-step-4.jpg" style="max-width: 400px;" alt="Spongepot user guide - Step 1">
+                </div>
+                <div class="p-2 flex-grow-1 bd-highlight text-left  align-items-center p-1  pt-sm-0 pl-sm-3  text-dark fontsize1125 open-sans-light-font" style="font-size: 1.2rem;font-weight:200;line-height: 1.5;">
+                    <h2 style="font-size:1.75rem;">Step 4</h2>
+                    <p>Sprinkle 1 gram / 0.035 ounce of Mycorrhiza into the seed hole.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container textblock basic-header-width  mt-1    py-3 mb-0"  id="_step_1">
+    <div class="row p-0 m-0 px-sm-3 mx-sm-3">
+        <div class="col-md-11 text-left p-0 py-sm-3  m-2  text-dark font-weight-normal fontsize1125 mb-0">
+            <div class="d-flex bd-highlight">
+                <div class="p-2 bd-highlight text-left text-sm-left h-100 align-top p-1  text-dark font-weight-normal fontsize1125">
+                    <img class="img-step " src="/img/usage/mycorrhiza/user-guide-mycorrhiza-step-5.jpg" style="max-width: 400px;" alt="Spongepot user guide - Step 1">
+                </div>
+                <div class="p-2 flex-grow-1 bd-highlight text-left  align-items-center p-1  pt-sm-0 pl-sm-3  text-dark fontsize1125 open-sans-light-font" style="font-size: 1.2rem;font-weight:200;line-height: 1.5;">
+                    <h2 style="font-size:1.75rem;">Step 5</h2>
+                    <p>Plant your seedling/cutting.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container textblock basic-header-width  mt-1    py-3 mb-0"  id="_step_1">
+    <div class="row p-0 m-0 px-sm-3 mx-sm-3">
+        <div class="col-md-11 text-left p-0 py-sm-3  m-2  text-dark font-weight-normal fontsize1125 mb-0">
+            <div class="d-flex bd-highlight">
+                <div class="row">
+                    <div class="col-md-12 p-0 p-md-3 second-column" style="font-size:1.2rem;font-weight:200;">
+                        <p>Harmless to humans, animals and the environment.<br>
+                        <strong>Not for internal use • Keep away from children • Wash hands after usage • Store dry and cool</strong>
+                        </p>
+                        <p>Should you have any questions, please do not hesitate to <a href="/contact">contact us!</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
