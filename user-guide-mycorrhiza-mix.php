@@ -1,6 +1,6 @@
 <div class="container container-md mt-5 mb-5">
     <div class="col-12 text-center pb-5" style="font-size:27px;">
-        User guide <b style="font-weight:800;">Mycorrhiza Mix</b>
+        <h1>User guide <b style="font-weight:800;">Mycorrhiza Mix</b></h2>
     </div>
 </div>
 <div class="container textblock basic-header-width  mt-1    py-3 mb-0"  id="_step_1">
@@ -12,8 +12,9 @@
                         <img class="img-fluid basic-header-thumbnail lazyloaded" src="/img/mycorrhiza_large.jpg">
                     </div>
                     <div class="col-md-6 p-0 p-md-3 second-column" style="font-size:1.2rem;font-weight:200;">
-                        <p>Mycorrhiza is not only highly beneficial for your roots but also very easy to apply.</p>
-                        <p>To obtain the best possible results with mycorrhiza, please follow the simple steps below.</p>
+                        <p>Mycorrhiza should be mixed through the soil. As soon as the growing roots come into contact with our spores,
+                             the fungi will start to grow, and the foundation is laid for a beautiful symbiosis.</p>
+                             <p>Thanks to the addition of vegetable fungi stimulators, this process will start in less than a week!.</p>
                         <p>For more <strong>product information</strong> see our <a href="/mycorrhiza-mix">Mycorrhiza Mix</a></p>
                     </div>
                 </div>
@@ -31,7 +32,7 @@
                 </div>
                 <div class="p-2 flex-grow-1 bd-highlight text-left  align-items-center p-1  pt-sm-0 pl-sm-3  text-dark fontsize1125 open-sans-light-font" style="font-size: 1.2rem;font-weight:200;line-height: 1.5;">
                     <h2 style="font-size:1.75rem;">Step 1</h2>
-                    <p>Dissolve the supplied bacto in 1 liter / 0.26 gal of water.</p>
+                    <p>Use a total of 5 grams / 0.176 ounce per plant.</p>
                 </div>
             </div>
         </div>
@@ -103,9 +104,9 @@
             <div class="d-flex bd-highlight">
                 <div class="row">
                     <div class="col-md-12 p-0 p-md-3 second-column" style="font-size:1.2rem;font-weight:200;">
-                        <p>Harmless to humans, animals and the environment.<br>
+                        <p>Harmless to humans, animals and the environment.<br><br>
                         <strong>Not for internal use • Keep away from children • Wash hands after usage • Store dry and cool</strong>
-                        </p>
+                        </p><br>
                         <p>Should you have any questions, please do not hesitate to <a href="/contact">contact us!</a></p>
                     </div>
                 </div>
