@@ -39,6 +39,26 @@ $meta = array(
       'title' => 'About Dutch Ground Control',
       'description' => 'Dutch Ground Control is a Dutch wholesaler/producer of various mycorrhiza products, (organic) plant nutrients, and soil enhancers.',
    ),
+   'usage' => array(
+      'title' => 'Dutch Ground Control User Guides',
+      'description' => 'Step-by-step user guides for the products of Dutch Ground Control.',
+   ),
+   'user-guide-mycorrhiza-mix' => array(
+      'title' => 'User guide for the Mycorrhiza of Dutch Ground Control',
+      'description' => 'Step-by-step user guides for the Mycorrhiza of Dutch Ground Control.',
+   ),
+   'user-guide-rhizobac-caps' => array(
+      'title' => 'User guide for the Rhizobac Caps of Dutch Ground Control',
+      'description' => 'Step-by-step user guides for the Rhizobac Caps of Dutch Ground Control.',
+   ),
+   'user-guide-rhizobac-mix' => array(
+      'title' => 'User guide for the Rhizobac Mix of Dutch Ground Control',
+      'description' => 'Step-by-step user guides for the Rhizobac Mix of Dutch Ground Control.',
+   ),
+   'user-guide-rhizobac-sachets' => array(
+      'title' => 'User guide for the Rhizobac Sachets of Dutch Ground Control',
+      'description' => 'Step-by-step user guides for the Rhizobac Sachets of Dutch Ground Control.',
+   ),
 
 );
 

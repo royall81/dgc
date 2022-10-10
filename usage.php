@@ -2,7 +2,7 @@
     <div class="row pt-0">
 
         <div class="col-12 text-center pb-5" style="font-size:27px;">
-            User guides for <b  style="font-weight:800;"> OUR PRODUCTS</b>
+            <h1>Dutch Ground Control <b style="font-weight:800;">User guides</b><h1>
         </div>
 
         <div class="col-12 pb-3">
