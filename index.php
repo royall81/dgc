@@ -91,9 +91,13 @@
                                 <li class="nav-item<?php if ($page == 'mycorrhiza-mix') echo ' active'; ?>">
                                      <a class="nav-link" href="/mycorrhiza-mix">MYCORRHIZA MIX<span class="sr-only">(current)</span></a>
                                 </li>
-                                <li class="nav-item<?php if ($page == 'rhyzobac-mix') echo ' active'; ?>">
-                                     <a class="nav-link" href="/rhyzobac-mix">RHYZOBAC MIX<span class="sr-only">(current)</span></a>
+                                <li class="nav-item<?php if ($page == 'rhizobac-mix') echo ' active'; ?>">
+                                     <a class="nav-link" href="/rhizobac-mix">RHiZOBAC MIX<span class="sr-only">(current)</span></a>
                                 </li>
+                                <li class="nav-item<?php if ($page == 'usage') echo ' active'; ?>">
+                                     <a class="nav-link" href="/usage">User Guide<span class="sr-only">(current)</span></a>
+                                </li>
+
                                 <!-- <li class="nav-item<?php if ($page == 'fertilizer') echo ' active'; ?>">
                                      <a class="nav-link" href="/npk-fertilizer">NPK FERTILIZER<span class="sr-only">(current)</span></a>
                                 </li> -->
@@ -141,7 +145,7 @@
                                           <br>
                                           <li><a href="/<?= constant('NAV_LINK_HOME_URL'); ?>"><?= constant('NAV_LINK_HOME'); ?></a></li>
                                           <li style="line-height: 2rem;"><a href="/<?= constant('NAV_LINK_MYCOR_MIX_URL'); ?>"><?= constant('NAV_LINK_MYCOR_MIX'); ?></a></li>
-                                          <li style="line-height: 2rem;"><a href="/<?= constant('NAV_LINK_RHYZOBAC-MIX_URL'); ?>"><?= constant('NAV_LINK_RHYZOBAC-MIX'); ?></a></li>
+                                          <li style="line-height: 2rem;"><a href="/<?= constant('NAV_LINK_RHIZOBAC-MIX_URL'); ?>"><?= constant('NAV_LINK_RHIZOBAC-MIX'); ?></a></li>
   <!--                                        <li style="line-height: 2rem;"><a href="/--><?//= constant('NAV_LINK_NPK_FERTILIZER_URL'); ?><!--">--><?//= constant('NAV_LINK_NPK_FERTILIZER'); ?><!--</a></li>-->
                                           <li style="line-height: 2rem;"><a href="/<?= constant('NAV_LINK_CONTACT_URL'); ?>"><?= constant('NAV_LINK_CONTACT'); ?></a></li>
                                      </ul>
