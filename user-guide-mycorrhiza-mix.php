@@ -78,7 +78,7 @@
         <div class="col-md-11 text-left p-0 py-sm-3  m-2  text-dark mb-0">
             <div class="d-flex bd-highlight">
                 <div class="row">
-                    <div class="col-md-12 p-0 p-md-3 second-column">"
+                    <div class="col-md-12 p-0 p-md-3 second-column">
                          <h2 class="mt-4">Additional information</h2><br>
                         <p>Harmless to humans, animals and the environment.</p>
                         <p><strong>Not for internal use • Keep away from children • Wash hands after usage • Store dry and cool</strong>
