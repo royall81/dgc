@@ -2,7 +2,7 @@
      <br>
      <div class="row" style="font-size:16px;">
           <div class="col-12 col-md-6  px-0 text-center">
-               <img src="/img/rhizobac_larhe.jpg" class="img-fluid pt-3"/>
+               <img src="/img/rhizobac_large.jpg" class="img-fluid pt-3"/>
           </div>
           <div class="col-12 col-md-6 px-4 px-md-5">
                <br>

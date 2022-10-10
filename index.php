@@ -95,7 +95,7 @@
                                      <a class="nav-link" href="/rhizobac-mix">RHiZOBAC MIX<span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item<?php if ($page == 'usage') echo ' active'; ?>">
-                                     <a class="nav-link" href="/usage">User Guide<span class="sr-only">(current)</span></a>
+                                     <a class="nav-link" href="/usage">User Guides<span class="sr-only">(current)</span></a>
                                 </li>
 
                                 <!-- <li class="nav-item<?php if ($page == 'fertilizer') echo ' active'; ?>">
