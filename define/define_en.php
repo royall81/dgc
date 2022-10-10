@@ -11,9 +11,9 @@ $meta = array(
        'title' => 'Mycorrhiza Mix | Dutch Ground Control «',
        'description' => 'By adding Mycorrhiza Mix to your soil, your plants grow healthier, which result in higher yield and better quality, all in a 100% organic way! «',
    ),
-   'rhyzobac-mix' => array(
-       'title' => 'Rhyzobac Mix with Trichoderma | Dutch Ground Control «',
-       'description' => 'Rhyzobacteria converts digestible organic material into important nutrients that can be easily absorbed through the roots.  «',
+   'rhizobac-mix' => array(
+       'title' => 'Rhizobac Mix with Trichoderma | Dutch Ground Control «',
+       'description' => 'Rhizobacteria converts digestible organic material into important nutrients that can be easily absorbed through the roots.  «',
    ),
    'contact' => array(
        'title' => 'Contact Dutch Ground Control «',
@@ -87,8 +87,8 @@ define("NAV_LINK_CONTACT_THANKS_URL","thanks");
 define("NAV_LINK_MYCOR_MIX","Mycorrhiza Mix");
 define("NAV_LINK_MYCOR_MIX_URL","mycorrhiza-mix");
 
-define("NAV_LINK_RHYZOBAC-MIX","Rhyzobac Mix");
-define("NAV_LINK_RHYZOBAC-MIX_URL","rhyzobac-mix");
+define("NAV_LINK_RHIZOBAC-MIX","Rhizobac Mix");
+define("NAV_LINK_RHIZOBAC-MIX_URL","rhizobac-mix");
 
 define("NAV_LINK_NPK_FERTILIZER","NPK Fertilizer");
 define("NAV_LINK_NPK_FERTILIZER_URL","npk-fertilizer");

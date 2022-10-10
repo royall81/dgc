@@ -2,13 +2,13 @@
      <br>
      <div class="row ">
           <div class="col-12 col-md-6  px-0 text-center">
-               <img src="/img/rhyzobac_large.jpg" class="img-fluid pt-3"/>
+               <img src="/img/rhizobac_large.jpg" class="img-fluid pt-3"/>
           </div>
           <div class="col-12 col-md-6 px-4 px-md-5">
                <br>
                <h1>Spongepot</h1><br>
-               <p><b>This specially formulated mix of Rhyzobacteria and Trichoderma fungi stimulate the development of beneficial soil organisms and promotes the growth of a healthy root system.</b></p>
-               <p>Rhyzobacteria converts digestible organic material into important nutrients that can be easily absorbed through the roots. They also colonize the root environment giving disease-causing bacteria and malignant fungi no chance.</p>
+               <p><b>This specially formulated mix of Rhizobacteria and Trichoderma fungi stimulate the development of beneficial soil organisms and promotes the growth of a healthy root system.</b></p>
+               <p>Rhizobacteria converts digestible organic material into important nutrients that can be easily absorbed through the roots. They also colonize the root environment giving disease-causing bacteria and malignant fungi no chance.</p>
                <p>Trichoderma fungi establish a protective encapsulation of the young root of your plant as soon as it germinates. This ensures the roots are protected against malicious external fungi.</p>
           </div>
      </div>

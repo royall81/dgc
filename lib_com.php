@@ -9,7 +9,7 @@ $aExistingUrls[] = ''; # Home
 //$aExistingUrls[] = '404.html';
 # Excisting URL'S
 $aExistingUrls[] = 'mycorrhiza-mix';
-$aExistingUrls[] = 'rhyzobac-mix';
+$aExistingUrls[] = 'rhizobac-mix';
 $aExistingUrls[] = 'npk-fertilizer';
 $aExistingUrls[] = 'contact';
 $aExistingUrls[] = 'thanks';

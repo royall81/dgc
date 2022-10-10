@@ -68,7 +68,7 @@
 
           <div class="col-12 col-md-4">
                <div class="col-12 text-center" style="min-height:320px;">
-                    <a href="/rhyzobac-mix"><img class="mx-auto img-fluid" src="/img/rhyzobac.jpg" /></a>
+                    <a href="/rhizobac-mix"><img class="mx-auto img-fluid" src="/img/rhizobac.jpg" /></a>
                </div>
                <div class="col-12 text-center pb-5 pb-md-0" style="font-family: 'Montserrat', sans-serif; font-weight:600; font-size:24px;">
                     Rhizobac
